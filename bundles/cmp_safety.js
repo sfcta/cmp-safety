@@ -12788,8 +12788,8 @@ var _jsCookie2 = _interopRequireDefault(_jsCookie);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var api_server = 'http://api.sfcta.org/api/switrs_viz3';
-var api_totals = 'http://api.sfcta.org/api/switrs_totals2';
+var api_server = 'https://api.sfcta.org/api/switrs_viz3';
+var api_totals = 'https://api.sfcta.org/api/switrs_totals2';
 var master_api = 'https://api.sfcta.org/api/';
 var maplib = __webpack_require__(395);
 var styles = maplib.styles;
