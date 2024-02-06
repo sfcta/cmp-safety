@@ -126,16 +126,16 @@ hr {margin: 1% 0px; }
   background-color: navy!important;
 }
 .ui.colorhin.toggle.checkbox input:focus:checked~label:before{
-  background-color: grey!important;
+  background-color: #FF8C00!important;
 }
 .ui.colorhin.toggle.checkbox input:checked~label:before{
-  background-color: grey!important;
+  background-color: #FF8C00!important;
 }
 .ui.colorpar.toggle.checkbox input:focus:checked~label:before{
-  background-color: green!important;
+  background-color: grey!important;
 }
 .ui.colorpar.toggle.checkbox input:checked~label:before{
-  background-color: green!important;
+  background-color: grey!important;
 }
 
 table#citywide tbody th, td {   
